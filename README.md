@@ -259,7 +259,7 @@ Return the **Top 5 most similar movies**.
 
 ### Home Page
 
-https://github.com/harshitbehal2611-web/Movie-Recommendation-System/blob/main/homepage.png?raw=true
+![Home Page](images/homepage.png?raw=true)
 
 ---
 
