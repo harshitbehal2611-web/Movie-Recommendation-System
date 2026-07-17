@@ -308,7 +308,7 @@ Avatar
 Clone the repository.
 
 ```bash
-git clone https://github.com/harshtharani/Movie-Recommendation-System.git
+git clone https://github.com/harshitbehal2611-web/Movie-Recommendation-System.git
 ```
 
 Move into the project directory.
@@ -356,9 +356,9 @@ These files are excluded from the repository because the similarity matrix excee
 
 ## Author
 
-**Harsh Tharani**
+**Harshit Behal**
 
-GitHub: https://github.com/harshtharani
+GitHub: https://github.com/harshitbehal2611-web
 
 ---
 
