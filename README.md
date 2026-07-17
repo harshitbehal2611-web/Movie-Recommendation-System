@@ -265,7 +265,7 @@ Return the **Top 5 most similar movies**.
 
 ### Recommendation Result
 
-![Recommendations](images/recommendations.png)
+![Recommendations](recommendations.png)
 
 ---
 
