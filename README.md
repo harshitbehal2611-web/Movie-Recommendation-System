@@ -259,7 +259,7 @@ Return the **Top 5 most similar movies**.
 
 ### Home Page
 
-![Home Page](images/homepage.png?raw=true)
+![Home Page](images/homepage.png)
 
 ---
 
